@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Feb 16th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Hannah Wait
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I used HTML and JavaScript to create a webpage that calculated monthly expense percentages for a user.  I primarily worked with JavaScript, following the directions to complete the code
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://hwait12.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JavaScript initializes variables with "var"
+2. Just like in c++, every JavaScript statement must end with a ";"
+3. "parseFloat()" converts a string to a float variable
 
 
 
